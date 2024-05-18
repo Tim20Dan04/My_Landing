@@ -85,6 +85,11 @@ nav a:hover {
 }
 
 
+.icon {
+    width: 75px;
+}
+
+
 .first {
     padding: 20px 0;
     background: url(../img/background.jpg);
